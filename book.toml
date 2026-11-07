@@ -1,0 +1,13 @@
+[book]
+title = "ZLang Project Goals"
+authors = ["Z Programming Language Team"]
+description = "Goals, milestones and roadmap of the Z ecosystem."
+language = "en"
+
+[build]
+build-dir = "book"
+
+[output.html]
+default-theme = "navy"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/zii-lang/goals"
