@@ -11,3 +11,5 @@
 # Goals
 - [2026](goals/2026/README.md)
     - [Source Manager](goals/2026/source_manager.md)
+    - [Lexeme](goals/2026/lexeme.md)
+    - [Semantics](goals/2026/semantics.md)

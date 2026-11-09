@@ -13,3 +13,5 @@ We are writing goals here to have the Z Programming Language on track, not imple
 # Goals
 
 - [Source Manager](source_manager.md)
+- [Lexeme](lexeme.md)
+= [Semantics](semantics.md)
